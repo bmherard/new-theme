@@ -1,1 +1,11 @@
-/* theme styles */
+/* THEME STYLES */
+
+/* Sticky Footer */
+html,
+body {
+  height: 100%;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
