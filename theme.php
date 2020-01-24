@@ -55,7 +55,7 @@
     </div>
 
     <!-- FOOTER -->
-    <footer class="footer mt-auto py-3 bg-light">
+    <footer id="sticky-footer" class="footer mt-auto py-3 bg-light">
         <div class="container">
             <span class="small text-muted"><?= $Wcms->footer() ?></span>
         </div>
