@@ -1,2 +1,3 @@
 # New-Theme
-A simple starter them utilizing Bootrap 4.3
+A simple starter theme utilizing Bootrap 4.3
+Still in development
