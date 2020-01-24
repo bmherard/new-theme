@@ -24,7 +24,7 @@
     <?= $Wcms->get('config', 'siteTitle') ?>
     <!-- /.CONTENT -->
     <?= $Wcms->page('content') ?>
-    <?php echo contact_from(); ?>
+    <?php echo contact_form(); ?>
     <!-- /.SIDEBAR -->
     <?= $Wcms->block('subside') ?>
     <!-- /.FOOTER -->
