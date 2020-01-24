@@ -1,4 +1,7 @@
 # New-Theme
-A simple starter theme utilizing Bootstrap 4.3
+## A simple starter theme utilizing Bootstrap 4.3
 ---
 Still in development
+
+Features Include:
+* Sticky footer
