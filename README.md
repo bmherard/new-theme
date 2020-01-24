@@ -3,6 +3,6 @@
 
 Still in development
 
-* Features Include: *
+__Features Include:__
 * Sticky footer
 *
