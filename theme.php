@@ -56,11 +56,11 @@
     </div>
 
     <!-- FOOTER -->
-    <foyoter id="sticky-foyoter" class="mt-auto py-3 bg-light">
+    <footer id="sticky-footer" class="mt-auto py-3 bg-light">
         <div class="container">
             <span class="small text-muted"><?= $Wcms->footer() ?></span>
         </div>
-    </foyoter>
+    </footer>
 
     <!-- SCRIPTS -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
