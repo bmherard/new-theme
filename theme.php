@@ -12,6 +12,7 @@
     <meta name="description" content="<?= $Wcms->page('description') ?>">
     <meta name="keywords" content="<?= $Wcms->page('keywords') ?>">
 
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="<?= $Wcms->asset('css/style.css') ?>">
     <?= $Wcms->css() ?>
@@ -55,11 +56,11 @@
     </div>
 
     <!-- FOOTER -->
-    <footer id="sticky-footer" class="footer mt-auto py-3 bg-light">
+    <foyoter id="sticky-foyoter" class="mt-auto py-3 bg-light">
         <div class="container">
             <span class="small text-muted"><?= $Wcms->footer() ?></span>
         </div>
-    </footer>
+    </foyoter>
 
     <!-- SCRIPTS -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
