@@ -47,7 +47,6 @@
                 <article class="col-md-8">
                     <?= $Wcms->page('content') ?>
                     <?php echo contact_form(); ?>
-                    <?= newEditableArea() ?>
                 </article>
                 <aside class="col-md-4 border rounded-sm bg-light p-3">
                     <?= $Wcms->block('subside') ?>
