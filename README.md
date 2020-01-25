@@ -5,4 +5,5 @@ Still in development
 
 __Features Include:__
 * Sticky footer
+* Font-Awesome 5.12.0 Support
 *
